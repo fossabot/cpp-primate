@@ -1,0 +1,97 @@
+[submodule "ext/ConEmu"]
+	path = ext/ConEmu
+	url = https://github.com/Maximus5/ConEmu
+	branch = master
+[submodule "ext/c-algorithms"]
+	path = ext/c-algorithms
+	url = https://github.com/fragglet/c-algorithms
+	branch = master
+[submodule "ext/algorithms"]
+	path = ext/algorithms
+	url = https://github.com/xtaci/algorithms
+	branch = master
+
+[submodule "ext/single_file_libs"]
+	path = ext/single_file_libs
+	url = https://github.com/nothings/single_file_libs
+	branch = master
+[submodule "ext/CppAwesomePack"]
+	path = ext/CppAwesomePack
+	url = https://github.com/JunianNet/CppAwesomePack
+	branch = master
+[submodule "ext/awesome-interview-questions"]
+	path = ext/awesome-interview-questions
+	url = https://github.com/MaximAbramchuck/awesome-interview-questions
+	branch = master
+[submodule "ext/Projects"]
+	path = ext/Projects
+	url = https://github.com/karan/Projects
+	branch = master
+[submodule "ext/Algos"]
+	path = ext/Algos
+	url = https://github.com/faheel/Algos
+	branch = master
+[submodule "ext/Algorithms"]
+	path = ext/Algorithms
+	url = https://github.com/PetarV-/Algorithms
+	branch = master
+[submodule "ext/awesome-algorithms"]
+	path = ext/awesome-algorithms
+	url = https://github.com/tayllan/awesome-algorithms
+	branch = master
+[submodule "ext/papers-we-love"]
+	path = ext/papers-we-love
+	url = https://github.com/papers-we-love/papers-we-love
+	branch = master
+[submodule "ext/free-programming-books"]
+	path = ext/free-programming-books
+	url = https://github.com/EbookFoundation/free-programming-books
+	branch = master
+[submodule "ext/cpplinks"]
+	path = ext/cpplinks
+	url = https://github.com/MattPD/cpplinks
+	branch = master
+[submodule "ext/awesome-cpp"]
+	path = ext/awesome-cpp
+	url = https://github.com/fffaraz/awesome-cpp
+	branch = master
+[submodule "ext/awesome-cmake"]
+	path = ext/awesome-cmake
+	url = https://github.com/onqtam/awesome-cmake
+	branch = master
+[submodule "ext/AwesomePerfCpp"]
+	path = ext/AwesomePerfCpp
+	url = https://github.com/fenbf/AwesomePerfCpp
+	branch = master
+[submodule "ext/cmake-init"]
+	path = ext/cmake-init
+	url = https://github.com/cginternals/cmake-init
+	branch = master
+[submodule "ext/cppcoro"]
+	path = ext/cppcoro
+	url = https://github.com/lewissbaker/cppcoro
+	branch = master
+[submodule "ext/draft"]
+	path = ext/draft
+	url = https://github.com/cplusplus/draft
+	branch = master
+[submodule "ext/CppCoreGuidelines"]
+	path = ext/CppCoreGuidelines
+	url = https://github.com/isocpp/CppCoreGuidelines
+	branch = master
+[submodule "ext/CMakeWizard"]
+	path = ext/CMakeWizard
+	url = https://github.com/DeveloperPaul123/CMakeWizard
+	branch = master
+[submodule "ext/cppnow_presentations_2017"]
+	path = ext/cppnow_presentations_2017
+	url = https://github.com/boostcon/cppnow_presentations_2017
+	branch = master
+[submodule "ext/CppCon2017"]
+	path = ext/CppCon2017
+	url = https://github.com/CppCon/CppCon2017
+	branch = master
+[submodule "ext/nanogui"]
+	path = ext/nanogui
+	url = https://github.com/wjakob/nanogui
+	branch = master

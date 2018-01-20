@@ -1,0 +1,63 @@
+############################################################
+# CppPrimate - Start
+############################################################
+
+Analysis/
+compilers/
+IDEs/
+Keys/
+MyApps/
+msys2/
+SDKs/
+Utils/
+Languages/
+_gsdata_/
+docs/vshelp/
+repos/
+GNU32/
+vcpkg/
+conan/
+libs/
+installers/
+documentation/
+docs/
+
+
+
+############################################################
+# CppPrimate - End
+############################################################
+
+# C++ Ignore Template
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.a 
+*.exe
+
+# Visual Studio
+*.sln
+*.out
+*.app
